@@ -1,5 +1,6 @@
 class{
-method(
+method1(
 )
-
+method2(
+)
 }
